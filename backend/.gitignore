@@ -1,0 +1,6 @@
+.env
+logs/
+.coverage/
+dist/
+web-build/
+node_modules/

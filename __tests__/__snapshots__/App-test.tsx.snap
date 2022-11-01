@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App renders the root 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <Image
+    resizeMode="cover"
+    source={1}
+    style={
+      Object {
+        "height": 1334,
+        "width": 750,
+      }
+    }
+  />
+</View>
+`;

@@ -1,0 +1,417 @@
+{
+  "project_info": {
+    "project_number": "984844710159",
+    "firebase_url": "https://rxp-app.firebaseio.com",
+    "project_id": "rxp-app",
+    "storage_bucket": "rxp-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984844710159:android:e67a45495207413325ce7a",
+        "android_client_info": {
+          "package_name": "com.maximusrepartners.rxp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984844710159-9408gsn49rthuu46ibibomavqoitqbjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjgwe6fU4-pk5KXP1eiuA9rSxsf5yem5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984844710159-9408gsn49rthuu46ibibomavqoitqbjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984844710159:android:d0896bb874060e3025ce7a",
+        "android_client_info": {
+          "package_name": "com.maximusrepartners.rxp.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984844710159-9408gsn49rthuu46ibibomavqoitqbjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjgwe6fU4-pk5KXP1eiuA9rSxsf5yem5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984844710159-9408gsn49rthuu46ibibomavqoitqbjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984844710159:android:ff34558f2f821aec25ce7a",
+        "android_client_info": {
+          "package_name": "com.maximusrepartners.rxp.local"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984844710159-9408gsn49rthuu46ibibomavqoitqbjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjgwe6fU4-pk5KXP1eiuA9rSxsf5yem5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984844710159-9408gsn49rthuu46ibibomavqoitqbjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984844710159:android:d478b6250826188425ce7a",
+        "android_client_info": {
+          "package_name": "com.maximusrepartners.rxp.staging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984844710159-9408gsn49rthuu46ibibomavqoitqbjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjgwe6fU4-pk5KXP1eiuA9rSxsf5yem5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984844710159-9408gsn49rthuu46ibibomavqoitqbjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984844710159:android:dcfd626baaf0dd6125ce7a",
+        "android_client_info": {
+          "package_name": "com.maximusrepartners.rxp.stagingblue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984844710159-9408gsn49rthuu46ibibomavqoitqbjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjgwe6fU4-pk5KXP1eiuA9rSxsf5yem5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984844710159-9408gsn49rthuu46ibibomavqoitqbjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984844710159:android:84e4b41dfb1d09f325ce7a",
+        "android_client_info": {
+          "package_name": "com.maximusrepartners.rxp.stagingcust"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984844710159-9408gsn49rthuu46ibibomavqoitqbjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjgwe6fU4-pk5KXP1eiuA9rSxsf5yem5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984844710159-9408gsn49rthuu46ibibomavqoitqbjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984844710159:android:00204ea707298e0f25ce7a",
+        "android_client_info": {
+          "package_name": "com.maximusrepartners.rxp.staginggreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984844710159-9408gsn49rthuu46ibibomavqoitqbjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjgwe6fU4-pk5KXP1eiuA9rSxsf5yem5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984844710159-9408gsn49rthuu46ibibomavqoitqbjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984844710159:android:9074ac2ab8e80bd425ce7a",
+        "android_client_info": {
+          "package_name": "tech.reva.rxp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984844710159-9408gsn49rthuu46ibibomavqoitqbjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjgwe6fU4-pk5KXP1eiuA9rSxsf5yem5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984844710159-9408gsn49rthuu46ibibomavqoitqbjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984844710159:android:c64db408abb408b325ce7a",
+        "android_client_info": {
+          "package_name": "tech.reva.rxp.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984844710159-9408gsn49rthuu46ibibomavqoitqbjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjgwe6fU4-pk5KXP1eiuA9rSxsf5yem5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984844710159-9408gsn49rthuu46ibibomavqoitqbjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984844710159:android:f2f655edd4440e8725ce7a",
+        "android_client_info": {
+          "package_name": "tech.reva.rxp.local"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984844710159-9408gsn49rthuu46ibibomavqoitqbjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjgwe6fU4-pk5KXP1eiuA9rSxsf5yem5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984844710159-9408gsn49rthuu46ibibomavqoitqbjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984844710159:android:19b03e3e4a6c102e25ce7a",
+        "android_client_info": {
+          "package_name": "tech.reva.rxp.staging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984844710159-9408gsn49rthuu46ibibomavqoitqbjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjgwe6fU4-pk5KXP1eiuA9rSxsf5yem5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984844710159-9408gsn49rthuu46ibibomavqoitqbjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984844710159:android:b1ac4ec688ccbfa025ce7a",
+        "android_client_info": {
+          "package_name": "tech.reva.rxp.stagingblue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984844710159-9408gsn49rthuu46ibibomavqoitqbjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjgwe6fU4-pk5KXP1eiuA9rSxsf5yem5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984844710159-9408gsn49rthuu46ibibomavqoitqbjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984844710159:android:ab99910fd4a9baf325ce7a",
+        "android_client_info": {
+          "package_name": "tech.reva.rxp.stagingcust"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984844710159-9408gsn49rthuu46ibibomavqoitqbjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjgwe6fU4-pk5KXP1eiuA9rSxsf5yem5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984844710159-9408gsn49rthuu46ibibomavqoitqbjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984844710159:android:05faee8180fc931225ce7a",
+        "android_client_info": {
+          "package_name": "tech.reva.rxp.staginggreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984844710159-9408gsn49rthuu46ibibomavqoitqbjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjgwe6fU4-pk5KXP1eiuA9rSxsf5yem5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984844710159-9408gsn49rthuu46ibibomavqoitqbjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

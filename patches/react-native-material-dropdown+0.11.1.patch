@@ -1,0 +1,49 @@
+diff --git a/node_modules/react-native-material-dropdown/src/components/dropdown/index.js b/node_modules/react-native-material-dropdown/src/components/dropdown/index.js
+index b1e65a1..e79be9a 100644
+--- a/node_modules/react-native-material-dropdown/src/components/dropdown/index.js
++++ b/node_modules/react-native-material-dropdown/src/components/dropdown/index.js
+@@ -9,7 +9,6 @@ import {
+   TouchableWithoutFeedback,
+   Dimensions,
+   Platform,
+-  ViewPropTypes,
+   I18nManager,
+ } from 'react-native';
+ import Ripple from 'react-native-material-ripple';
+@@ -133,7 +132,7 @@ export default class Dropdown extends PureComponent {
+     disabledItemColor: PropTypes.string,
+     baseColor: PropTypes.string,
+ 
+-    itemTextStyle: Text.propTypes.style,
++    // itemTextStyle: Text.propTypes.style,
+ 
+     itemCount: PropTypes.number,
+     itemPadding: PropTypes.number,
+@@ -146,10 +145,6 @@ export default class Dropdown extends PureComponent {
+     renderBase: PropTypes.func,
+     renderAccessory: PropTypes.func,
+ 
+-    containerStyle: (ViewPropTypes || View.propTypes).style,
+-    overlayStyle: (ViewPropTypes || View.propTypes).style,
+-    pickerStyle: (ViewPropTypes || View.propTypes).style,
+-
+     supportedOrientations: PropTypes.arrayOf(PropTypes.string),
+ 
+     useNativeDriver: PropTypes.bool,
+@@ -658,6 +653,7 @@ export default class Dropdown extends PureComponent {
+       accessibilityLabel,
+ 
+       supportedOrientations,
++      style,
+ 
+       ...props
+     } = this.props;
+@@ -725,7 +721,7 @@ export default class Dropdown extends PureComponent {
+     };
+ 
+     return (
+-      <View onLayout={this.onLayout} ref={this.updateContainerRef} style={containerStyle}>
++      <View onLayout={this.onLayout} ref={this.updateContainerRef} style={[containerStyle, style]}>
+         <TouchableWithoutFeedback {...touchableProps}>
+           <View pointerEvents='box-only'>
+             {this.renderBase(props)}

@@ -1,0 +1,118 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InvitationLinkExpired renders the InvitationLinkExpired component 1`] = `
+<View
+  onLayout={[Function]}
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#f6f6f6",
+        "flex": 1,
+      },
+      Object {
+        "paddingBottom": 0,
+      },
+    ]
+  }
+>
+  <RCTScrollView
+    contentContainerStyle={
+      Object {
+        "backgroundColor": "#f6f6f6",
+        "justifyContent": "flex-end",
+      }
+    }
+  >
+    <View>
+      <View
+        accessible={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "#f6f6f6",
+            "marginTop": 62,
+            "paddingHorizontal": 36,
+            "width": "100%",
+          }
+        }
+      >
+        <View />
+        <Text
+          style={
+            Array [
+              Object {
+                "color": "#000000",
+                "fontFamily": "System",
+                "fontWeight": "400",
+                "textAlign": "left",
+              },
+              Array [
+                Object {
+                  "color": "rgba(0, 0, 0, 0.87)",
+                  "fontFamily": "System",
+                  "fontWeight": "500",
+                  "textAlign": "left",
+                  "writingDirection": "ltr",
+                },
+                Array [
+                  Object {
+                    "fontSize": 20,
+                    "letterSpacing": 0.15,
+                    "lineHeight": 30,
+                    "marginVertical": 2,
+                  },
+                  Object {
+                    "marginBottom": 24,
+                    "textAlign": "center",
+                  },
+                ],
+              ],
+            ]
+          }
+        >
+          Sorry!
+This invitation has expired.
+        </Text>
+        <Text
+          style={
+            Array [
+              Object {
+                "color": "#000000",
+                "fontFamily": "System",
+                "fontWeight": "400",
+                "textAlign": "left",
+              },
+              Object {
+                "fontSize": 13,
+                "lineHeight": 20,
+                "marginBottom": 24,
+                "textAlign": "center",
+              },
+            ]
+          }
+        >
+          To register, you need to have a new invitation sent to
+you by one of our leasing agents. Please contact
+ your agent and ask for an invitation, so you can register a new account.
+        </Text>
+        <View
+          style={
+            Object {
+              "backgroundColor": "#f6f6f6",
+              "flex": 1,
+            }
+          }
+        />
+      </View>
+    </View>
+  </RCTScrollView>
+</View>
+`;

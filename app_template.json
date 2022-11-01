@@ -1,0 +1,62 @@
+{
+  "expo": {
+    "name": "%%APP_NAME%%",
+    "slug": "%%APP_SLUG%%",
+    "privacy": "unlisted",
+    "extra": {
+      "loginFlow": {
+        "line1": "%%APP_LOGIN_FLOW_LINE_1%%",
+        "line2": "%%APP_LOGIN_FLOW_LINE_2%%",
+        "line3": "%%APP_LOGIN_FLOW_LINE_3%%"
+      },
+      "legal": {
+        "privacyPolicyUrl": "%%LEGAL_PRIVACY_POLICY_URL%%",
+        "termsOfServiceUrl": "%%LEGAL_TERMS_OF_SERVICE_URL%%"
+      },
+      "buildNumber": %%BUILD_NUMBER%%
+    },
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.8",
+    "userInterfaceStyle": "automatic",
+    "icon": "./assets/images/expoIcon.png",
+    "scheme": "%%SCHEME%%",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "%%SPLASH_BACKGROUND_COLOR%%"
+    },
+    "notification": {
+      "icon": "./assets/images/notificationIcon.png",
+      "color": "%%NOTIFICATION_ICON_COLOR%%"
+    },
+    "updates": {
+      "checkAutomatically": "ON_ERROR_RECOVERY",
+      "fallbackToCacheTimeout": 30
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "%%APP_ID%%",
+      "buildNumber": "1.0.%%BUILD_NUMBER%%",
+      "infoPlist": {
+        "NSCameraUsageDescription": "Giving permission will let you attach photos to maintenance requests.",
+        "NSPhotoLibraryUsageDescription": "Giving permission will let you attach photos to maintenance requests."
+      },
+      "requireFullScreen": true
+    },
+    "android": {
+      "package": "%%APP_ID%%",
+      "versionCode": %%BUILD_NUMBER%%,
+      "googleServicesFile": "./google-services.json",
+      "useNextNotificationsApi": true
+    },
+    "web": {
+    }
+  }
+}

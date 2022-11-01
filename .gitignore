@@ -1,0 +1,39 @@
+node_modules/**/*
+.expo/*
+.expo-shared/*
+.firebase/*
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+web-report/
+
+# Customization assets
+app.json
+assets/images/splash.png
+assets/images/appLoginIcon.png
+assets/images/expoIcon.png
+assets/images/notificationIcon.png
+helpers/theme-colors.json
+
+# macOS
+.DS_Store
+
+/.vscode/settings.json
+/.vscode/translateImport.code-snippets
+
+# Jest
+#
+.jest/
+backend-dist/
+app.json-e
+.env
+local-storage.json
+dist-apks/
+dist/
+coverage/
+backend/assets/pkgs-metadata/

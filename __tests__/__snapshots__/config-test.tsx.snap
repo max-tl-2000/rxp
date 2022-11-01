@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`config config flags should set the isAndroid flag to true when on android 1`] = `
+Object {
+  "isAndroid": true,
+  "isIOS": false,
+  "isWeb": false,
+}
+`;
+
+exports[`config config flags should set the isIOS flag to true when on ios 1`] = `
+Object {
+  "isAndroid": false,
+  "isIOS": true,
+  "isWeb": false,
+}
+`;
+
+exports[`config config flags should set the isWeb flag to true when on web 1`] = `
+Object {
+  "isAndroid": false,
+  "isIOS": false,
+  "isWeb": true,
+}
+`;
